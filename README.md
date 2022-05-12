@@ -22,11 +22,11 @@ You can also long-press any audio clip to do any of the following actions:
 
 ## Download the Cartman Soundboard
 
-The Cartman Soundboard can be downloaded from any of the following locations:
+The latest version of the Cartman Soundboard (v1.0.0) can be downloaded from any of the following locations:
 
 <a href="https://play.google.com/store/apps/details?id=me.soundbytes.cartman_south_park_soundboard"><img src="assets/google-play-badge.png" width="20%" alt="Google Play Badge"></a>
 
-Or through [Direct Download (v1.0.0)](https://github.com/soundbytesdotme/cartman-south-park-soundboard/releases/download/v1.0.0/cartman-south-park-soundboard-1.0.0.apk) via this repo's [releases](https://github.com/soundbytesdotme/cartman-south-park-soundboard/releases) page.
+Or through [Direct Download](https://github.com/soundbytesdotme/cartman-south-park-soundboard/releases/download/v1.0.0/cartman-south-park-soundboard-1.0.0.apk) via this repo's [releases](https://github.com/soundbytesdotme/cartman-south-park-soundboard/releases) page.
 
 When downloading from either location, check the URL bar of your browser to ensure you are in the correct place and not visiting a phishing link.
 
